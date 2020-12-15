@@ -1,13 +1,13 @@
 # JFuck
 brainfuck interpreter and transpiler
 
-JFuck.jar usage:
+#### JFuck.jar usage:
 
 java -jar JFuck.jar <program.bf>
 
 
-JFuckTranspiler usage:
+#### JFuckTranspiler usage:
 
 java -jar JFuckTranspiler.jar <program.bf>
 
-^^^ this will transpile your brainfuck code into c source
+this will transpile your brainfuck code into c source
