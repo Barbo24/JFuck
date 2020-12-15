@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JFuck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JFuck_jar</output-path>
+    <root id="archive" name="JFuck.jar">
+      <element id="module-output" name="JFuck" />
+    </root>
+  </artifact>
+</component>
