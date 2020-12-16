@@ -6,7 +6,7 @@ brainfuck interpreter and transpiler
 java -jar JFuck.jar <program.bf>
 
 
-#### JFuckTranspiler usage:
+#### JFuckTranspiler.jar usage:
 
 java -jar JFuckTranspiler.jar <program.bf>
 
